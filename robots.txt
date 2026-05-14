@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://garun-optim.github.io/readme-rhi0bt/sitemap.xml
